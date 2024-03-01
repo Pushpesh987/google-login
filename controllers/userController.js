@@ -1,4 +1,4 @@
-
+// controllers/userController.js
 const loadAuth = (req, res) => {
     res.render('auth');
 }
